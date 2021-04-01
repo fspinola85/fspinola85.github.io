@@ -21,14 +21,20 @@
 title: Francisco Spínola
 email: fspinola85@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My portfolio
+  Portfolio
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fspinola85.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+#twitter_username: fspinola85
 github_username:  fspinola85
 
+author: Francisco Spínola
+copyright: Francisco Spínola
+linkedin_username: francisco-spínola-b3a66417b
+
 # Build settings
-theme: jekyll-theme-dinky
+
+# Using custom (regular) theme
+# theme: minima
 plugins:
   - jekyll-feed
 
