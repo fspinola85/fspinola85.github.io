@@ -19,14 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Francisco Spínola
-email: fspinola85@gmail.com
+email: fssecur3@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://fspinola85.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://fssecur3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: fspinola85
-github_username:  fspinola85
+github_username:  fssecur3
 
+show_excerpts: true
 author: Francisco Spínola
 copyright: Francisco Spínola
 linkedin_username: francisco-spínola-b3a66417b

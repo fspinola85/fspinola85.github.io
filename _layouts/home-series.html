@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <ul class="post-list">
+    <li>
+      <h3>
+        <a class="post-link" href="/tools">Tools</a>
+      </h3>
+      <p>Collection of personal developed tools</p>
+
+      <h3>
+        <a class="post-link" href="/pocs">Proof of Concepts</a>
+      </h3>
+      <p>Proof of Concepts of some CVE's and vulnerabilities</p>
+
+      <h3>
+        <a class="post-link" href="/tops">TOPs</a>
+      </h3>
+      <p>Best of some tools and other things</p>
+
+      <h3>
+        <a class="post-link" href="/reviews">Reviews</a>
+      </h3>
+      <p>Reviews of cybersecurity related content</p>
+
+      <h3>  
+        <a class="post-link" href="/tutorials">Tutorials</a>
+      </h3>
+      <p>Tutorials and how-to of tools, utilities, etc.</p>  
+    </li>
+  </ul>
+
+</div>
