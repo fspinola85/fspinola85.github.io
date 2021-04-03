@@ -3,10 +3,9 @@ layout: post
 title:  "Dumper - The Wi-Fi credential dumping tool"
 date: 2021-04-02 23:08:30 +0100
 category: Tools
+author: Francisco Spínola
 excerpt: Dumper is a software that extracts all the Wi-Fi credentials present on a Windows system.
 ---
-
-Author: Francisco Spínola
 
 ## SUMMARY
 
@@ -16,7 +15,7 @@ Dumper is a software that extracts all the Wi-Fi credentials present on a Window
 
 There are 2 files, one is a demo (*demo.c*) and the other is the real thing (*dumper.c*).
 
-The demo version allows you to execute the *dumper* with a friendly GUI so you can see what it looks like. 
+The demo version allows you to execute the *dumper* with a friendly GUI so you can see what it looks like.
 
 The other version is the "obfusctation" version of the tool. When executed, tries to hide itself (if a GUI can be created) renaming the windows to "Notepad and by resizing the window and changing the background color to white, looking similar to a notepad.
 

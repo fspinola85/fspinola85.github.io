@@ -2,6 +2,26 @@
 layout: default
 ---
 
+{%- comment -%}
+{%- for post in site.posts -%}
+  {%- if post.category == "Tools" -%}
+    {%- increment tools -%}
+  {%- endif -%}
+  {%- if post.category == "Reviews" -%}
+    {%- increment reviews -%}
+  {%- endif -%}
+  {%- if post.category == "Pocs" -%}
+    {%- increment pocs -%}
+  {%- endif -%}
+  {%- if post.category == "Tops" -%}
+    {%- increment tops -%}
+  {%- endif -%}
+  {%- if post.category == "Tutorials" -%}
+    {%- increment tutorials -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- endcomment -%}
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -12,30 +32,29 @@ layout: default
   <ul class="post-list">
     <li>
       <h3>
-        <a class="post-link" href="/tools">Tools</a>
+        <a class="post-link" href="/tools">Tools <!-- ({{ tools }}) --></a>
       </h3>
       <p>Collection of personal developed tools</p>
 
       <h3>
-        <a class="post-link" href="/pocs">Proof of Concepts</a>
+        <a class="post-link" href="/pocs">Proof of Concepts <!-- ({{ pocs }}) --></a>
       </h3>
       <p>Proof of Concepts of some CVE's and vulnerabilities</p>
 
       <h3>
-        <a class="post-link" href="/tops">TOPs</a>
+        <a class="post-link" href="/tops">TOPs <!-- ({{ tops }}) --></a>
       </h3>
       <p>Best of some tools and other things</p>
 
       <h3>
-        <a class="post-link" href="/reviews">Reviews</a>
+        <a class="post-link" href="/reviews">Reviews <!-- ({{ reviews }}) --></a>
       </h3>
       <p>Reviews of cybersecurity related content</p>
 
       <h3>  
-        <a class="post-link" href="/tutorials">Tutorials</a>
+        <a class="post-link" href="/tutorials">Tutorials <!-- ({{ tutorials }}) --></a>
       </h3>
       <p>Tutorials and how-to of tools, utilities, etc.</p>  
     </li>
   </ul>
-
 </div>
