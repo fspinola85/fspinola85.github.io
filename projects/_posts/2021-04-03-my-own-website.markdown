@@ -22,8 +22,3 @@ Besides that, I'll report my new and old projects here!
 
 The website is being hosted on [GitHub](https://github.com/fssecur3/fssecur3.github.io "Source code").  
 Don't forget to check it out [here](https://fssecur3.github.io/ "Francisco Spínola's Portfolio").
-
-Special thanks to:  
-João Paulo Magalhães  
-Paulo Gonçalves  
-José Bernardo Sousa
