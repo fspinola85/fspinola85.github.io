@@ -9,5 +9,5 @@ Logical challenges and CTF's are part of my history, but there's much more besid
 
 Offensive Security in general, Malware Analysis, Exploitation, Reverse Engineering, etc., are topics that have been moving me along this process and will undoubtedly be the ones that will have my attention in the near future.
 
-Well...truly, I can say that I see cyber risks all the time and that's what makes me try to be ahead of them, reason why planning and developing new means to overcome those threats are behind my new website, where I want to share my foreseen about these matters.  
+Well...truly, I can say that I see cyber risks all the time and that's what makes me try to be ahead of them, reason why planning and developing new means to overcome those threats are behind my new website, where I want to share my insights about these matters.  
 As Clifford Stoll once said "*treat your passwords like your toothbrush, (...) get a new one every six months*” (**or less preferably!**).
