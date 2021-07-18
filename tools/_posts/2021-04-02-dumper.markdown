@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dumper - The Wi-Fi credential dumping tool"
+title: "Dumper - The Wi-Fi credential dumping tool"
 date: 2021-04-02 23:08:30 +0100
 category: Tools
 author: Francisco Spínola
