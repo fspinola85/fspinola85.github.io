@@ -58,7 +58,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 ```
 
 As we can see above, binwalk revealed 3 files embedded in the image file. 2 of them are filesystems: a Squashfs and JFFS2.  
-Journalling Flash File System version 2 or JFFS2 is a log-structured file system for use with flash memory devices.  JFFS2 has been included into the Linux kernel and is also available for a few bootloaders.  
+Journalling Flash File System version 2 or JFFS2 is a log-structured file system for use with flash memory devices. JFFS2 has been included into the Linux kernel and is also available for a few bootloaders.  
 Squashfs is a compressed read-only file system for Linux, which compresses files, inodes and directories.  
 
 ## Step 3 - Extract the filesystems
