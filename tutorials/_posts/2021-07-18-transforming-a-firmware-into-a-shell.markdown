@@ -37,7 +37,7 @@ What we want to look at is the image file, since the text file cannot contain a 
 
 ## Step 2 - Gather information about the image file
 
-First of all, let's check what's the file type, by running file:
+First of all, let's check what's the file type, by running the `file` command:
 
 ```bash
 $ file tf_recovery.img  
