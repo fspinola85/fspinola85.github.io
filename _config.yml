@@ -23,14 +23,14 @@ email: fssecur3@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fssecur3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nu11pointer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: fspinola85
-github_username:  fssecur3
+github_username:  nu11pointer
 
 show_excerpts: true
 author: Francisco Spínola
 copyright: Francisco Spínola
-linkedin_username: francisco-spínola-b3a66417b
+linkedin_username: nu11pointer
 
 # Build settings
 
