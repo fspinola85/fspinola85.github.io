@@ -20,7 +20,7 @@ Finally, a file named ".licence.txt" (for obfusctation) is created with all the 
 
 ### DOWNLOAD
 
-You can find the source code and the binaries for this project over at my Github page, [here](https://github.com/fssecur3/dumper "Dumper project").
+You can find the source code and the binaries for this project over at my Github page, [here](https://github.com/nu11pointer/dumper "Dumper project").
 
 ### COMPILING
 
@@ -50,7 +50,7 @@ Check out the GNU General Public License: [http://www.gnu.org/licenses/](http://
 ### MESSAGE
 
 Have fun while using it during your physical pentesting activity!  
-Be sure to check out my other projects at my [website](https://fssecur3.github.io/ "Francisco Spínola's Portfolio").  
+Be sure to check out my other projects at my [website](https://nu11pointer.github.io/ "Francisco Spínola's Portfolio").  
 If you find any problem with this software be free to contact me: [fssecur3@outlook.com](mailto:fssecur3@outlook.com)
 
 Hope y'all like it. :)
