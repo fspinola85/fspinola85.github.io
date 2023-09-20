@@ -10,7 +10,7 @@ I have some great news!
 I've finally finished developing my own website!!! My portfolio!  
 Here, I will be able to publish some content related to **cybersecurity** and everything I've developed and will develop throughout the years in the field.
 
-I already planned to write some new [series](https://fssecur3.github.io/series/ "Series"):
+I already planned to write some new [series](https://nu11pointer.github.io/series/ "Series"):
 
 + **Tools** - Collection of personal developed tools
 + **Proof of Concepts** - Proof of Concepts of some (and latest) CVE's and known vulnerabilities
@@ -20,5 +20,5 @@ I already planned to write some new [series](https://fssecur3.github.io/series/ 
 
 Besides that, I'll report my new and old projects here!
 
-The website is being hosted on [GitHub](https://github.com/fssecur3/fssecur3.github.io "Source code").  
-Don't forget to check it out [here](https://fssecur3.github.io/ "Francisco Spínola's Portfolio").
+The website is being hosted on [GitHub](https://github.com/nu11pointer/nu11pointer.github.io "Source code").  
+Don't forget to check it out [here](https://nu11pointer.github.io/ "Francisco Spínola's Portfolio").
